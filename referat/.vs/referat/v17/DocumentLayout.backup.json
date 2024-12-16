@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\referat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{73E6C962-3007-48FE-9731-E57772CD294F}|Project1\\Project1.vcxproj|C:\\Users\\ugl18\\source\\repos\\referat\\Project1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73E6C962-3007-48FE-9731-E57772CD294F}|Project1\\Project1.vcxproj|solutionrelative:Project1\\test.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FF5E064-A5AA-49CF-9846-BE1D18BAA577}|referat\\referat.vcxproj|C:\\Users\\ugl18\\source\\repos\\referat\\referat\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4FF5E064-A5AA-49CF-9846-BE1D18BAA577}|referat\\referat.vcxproj|solutionrelative:referat\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "test.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\referat\\Project1\\test.cpp",
+              "RelativeDocumentMoniker": "Project1\\test.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\referat\\Project1\\test.cpp",
+              "RelativeToolTip": "Project1\\test.cpp",
+              "ViewState": "AgIAAK8BAAAAAAAAAAAYwMMBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-21T00:36:35.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\referat\\referat\\Source.cpp",
+              "RelativeDocumentMoniker": "referat\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\referat\\referat\\Source.cpp",
+              "RelativeToolTip": "referat\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwDYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-20T17:54:07.577Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

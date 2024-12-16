@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{61FFD7E5-C8B5-4B07-905E-88DE3AD89CC7}|OAIP18\\OAIP18.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP18\\OAIP18\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{61FFD7E5-C8B5-4B07-905E-88DE3AD89CC7}|OAIP18\\OAIP18.vcxproj|solutionrelative:OAIP18\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BD831EE-3133-4620-B066-030F909B2C4A}|3\\3.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP18\\3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1BD831EE-3133-4620-B066-030F909B2C4A}|3\\3.vcxproj|solutionrelative:3\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2A998AFB-DCA2-403E-8587-1AFAADB26B58}|1\\1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP18\\1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2A998AFB-DCA2-403E-8587-1AFAADB26B58}|1\\1.vcxproj|solutionrelative:1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B3679159-CD91-4A11-BBD6-0C06A799F479}|15\\15.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP18\\15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B3679159-CD91-4A11-BBD6-0C06A799F479}|15\\15.vcxproj|solutionrelative:15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\3\\Source.cpp",
+              "RelativeDocumentMoniker": "3\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\3\\Source.cpp",
+              "RelativeToolTip": "3\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAADwvxoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T21:37:17.018Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\1\\Source.cpp",
+              "RelativeDocumentMoniker": "1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\1\\Source.cpp",
+              "RelativeToolTip": "1\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvx0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T21:35:46.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\15\\Source.cpp",
+              "RelativeDocumentMoniker": "15\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\15\\Source.cpp",
+              "RelativeToolTip": "15\\Source.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAqwDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T21:31:31.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\OAIP18\\Source.cpp",
+              "RelativeDocumentMoniker": "OAIP18\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP18\\OAIP18\\Source.cpp",
+              "RelativeToolTip": "OAIP18\\Source.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-10T19:46:56.064Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

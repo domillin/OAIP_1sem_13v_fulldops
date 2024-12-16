@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{87409CAA-4B74-44EC-AFF4-0F4FA9E53ECD}|15.1\\15.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{87409CAA-4B74-44EC-AFF4-0F4FA9E53ECD}|15.1\\15.1.vcxproj|solutionrelative:15.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1DA56F01-91D5-42D4-BA33-E0BB6C6D7219}|13.2\\13.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1DA56F01-91D5-42D4-BA33-E0BB6C6D7219}|13.2\\13.2.vcxproj|solutionrelative:13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBA9F2D4-3A75-4297-9818-8574CED0E021}|OAIP15\\OAIP15.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\OAIP15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BBA9F2D4-3A75-4297-9818-8574CED0E021}|OAIP15\\OAIP15.vcxproj|solutionrelative:OAIP15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA990987-22C8-4D65-A9A4-7782ED0ACFA4}|1.2\\1.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DA990987-22C8-4D65-A9A4-7782ED0ACFA4}|1.2\\1.2.vcxproj|solutionrelative:1.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E654E1AD-5139-4F2B-9E5D-3272E0A7DF07}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E654E1AD-5139-4F2B-9E5D-3272E0A7DF07}|1.1\\1.1.vcxproj|solutionrelative:1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{387C76E5-6C70-4977-8BB5-437D734A8687}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{387C76E5-6C70-4977-8BB5-437D734A8687}|3.2\\3.2.vcxproj|solutionrelative:3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E46332C1-B82A-46DB-A20F-C97B29A7A7D0}|3.1\\3.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E46332C1-B82A-46DB-A20F-C97B29A7A7D0}|3.1\\3.1.vcxproj|solutionrelative:3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A072A76-E85D-461A-B021-D5EC138E26B0}|15.2\\15.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8A072A76-E85D-461A-B021-D5EC138E26B0}|15.2\\15.2.vcxproj|solutionrelative:15.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.2\\Source.cpp",
+              "RelativeDocumentMoniker": "3.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.2\\Source.cpp",
+              "RelativeToolTip": "3.2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-29T15:49:30.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.2\\Source.cpp",
+              "RelativeDocumentMoniker": "1.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.2\\Source.cpp",
+              "RelativeToolTip": "1.2\\Source.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAADMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T12:32:37.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.1\\Source.cpp",
+              "RelativeDocumentMoniker": "3.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\3.1\\Source.cpp",
+              "RelativeToolTip": "3.1\\Source.cpp",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T23:03:02.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.1\\Source.cpp",
+              "RelativeDocumentMoniker": "1.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\1.1\\Source.cpp",
+              "RelativeToolTip": "1.1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T22:46:56.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.2\\Source.cpp",
+              "RelativeDocumentMoniker": "15.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.2\\Source.cpp",
+              "RelativeToolTip": "15.2\\Source.cpp",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T22:34:15.452Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.1\\Source.cpp",
+              "RelativeDocumentMoniker": "15.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\15.1\\Source.cpp",
+              "RelativeToolTip": "15.1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T22:08:26.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\13.2\\Source.cpp",
+              "RelativeDocumentMoniker": "13.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\13.2\\Source.cpp",
+              "RelativeToolTip": "13.2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-27T21:14:54.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\OAIP15\\Source.cpp",
+              "RelativeDocumentMoniker": "OAIP15\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP15\\OAIP15\\Source.cpp",
+              "RelativeToolTip": "OAIP15\\Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-24T18:50:04.59Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

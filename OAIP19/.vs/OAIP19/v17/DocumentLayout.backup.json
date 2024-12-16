@@ -1,0 +1,385 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameD.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|solutionrelative:3.2\\NameD.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|solutionrelative:3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|solutionrelative:3.2\\NameC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameB.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|solutionrelative:3.2\\NameB.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{B5BDA779-4971-48E8-AA6A-7711730604A8}|3.2\\3.2.vcxproj|solutionrelative:3.2\\NameA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileB.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|solutionrelative:15.1\\fileB.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|solutionrelative:15.1\\fileA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AFF96048-99AA-48BA-8CEB-4430EBD1950F}|15.1\\15.1.vcxproj|solutionrelative:15.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|solutionrelative:13.2\\F1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|solutionrelative:13.2\\F2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2AA4720-9190-4491-BBFA-BF91827E1895}|13.2\\13.2.vcxproj|solutionrelative:13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601A8F7A-3D90-4F2F-B9CE-7F0CCD0574AC}|OAIP19\\OAIP19.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{601A8F7A-3D90-4F2F-B9CE-7F0CCD0574AC}|OAIP19\\OAIP19.vcxproj|solutionrelative:OAIP19\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{601A8F7A-3D90-4F2F-B9CE-7F0CCD0574AC}|OAIP19\\OAIP19.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\fileB.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{601A8F7A-3D90-4F2F-B9CE-7F0CCD0574AC}|OAIP19\\OAIP19.vcxproj|solutionrelative:OAIP19\\fileB.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|solutionrelative:3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|solutionrelative:3.1\\f2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{CAC17D1C-8C37-4C6D-BFC9-260CA23EC641}|3.1\\3.1.vcxproj|solutionrelative:3.1\\f1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|solutionrelative:1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fC.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|solutionrelative:1.1\\fC.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fB.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|solutionrelative:1.1\\fB.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fA.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{65B77859-AF65-4F67-A23C-F9398AFD0EFA}|1.1\\1.1.vcxproj|solutionrelative:1.1\\fA.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DAFCD-E42F-4615-80ED-EDCEDEE7F0C8}|15.2\\15.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F1.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{966DAFCD-E42F-4615-80ED-EDCEDEE7F0C8}|15.2\\15.2.vcxproj|solutionrelative:15.2\\F1.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{966DAFCD-E42F-4615-80ED-EDCEDEE7F0C8}|15.2\\15.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F2.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{966DAFCD-E42F-4615-80ED-EDCEDEE7F0C8}|15.2\\15.2.vcxproj|solutionrelative:15.2\\F2.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NameB.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameB.txt",
+              "RelativeDocumentMoniker": "3.2\\NameB.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameB.txt",
+              "RelativeToolTip": "3.2\\NameB.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:35:10.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "NameA.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameA.txt",
+              "RelativeDocumentMoniker": "3.2\\NameA.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameA.txt",
+              "RelativeToolTip": "3.2\\NameA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:34:49.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\Source.cpp",
+              "RelativeDocumentMoniker": "3.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\Source.cpp",
+              "RelativeToolTip": "3.2\\Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:34:28.94Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\Source.cpp",
+              "RelativeDocumentMoniker": "3.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\Source.cpp",
+              "RelativeToolTip": "3.1\\Source.cpp",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:29:22.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "f1.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f1.txt",
+              "RelativeDocumentMoniker": "3.1\\f1.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f1.txt",
+              "RelativeToolTip": "3.1\\f1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:29:16.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "f2.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f2.txt",
+              "RelativeDocumentMoniker": "3.1\\f2.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.1\\f2.txt",
+              "RelativeToolTip": "3.1\\f2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:29:03.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\Source.cpp",
+              "RelativeDocumentMoniker": "13.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\Source.cpp",
+              "RelativeToolTip": "13.2\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:18:32.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\Source.cpp",
+              "RelativeDocumentMoniker": "OAIP19\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\Source.cpp",
+              "RelativeToolTip": "OAIP19\\Source.cpp",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-12T12:04:56.63Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "fileA.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileA.txt",
+              "RelativeDocumentMoniker": "15.1\\fileA.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileA.txt",
+              "RelativeToolTip": "15.1\\fileA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T19:46:17.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "fileB.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileB.txt",
+              "RelativeDocumentMoniker": "15.1\\fileB.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\fileB.txt",
+              "RelativeToolTip": "15.1\\fileB.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T19:47:12.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\Source.cpp",
+              "RelativeDocumentMoniker": "15.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.1\\Source.cpp",
+              "RelativeToolTip": "15.1\\Source.cpp",
+              "ViewState": "AgIAACAAAAAAAAAAAAAkwDIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T19:43:17.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NameC.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameC.txt",
+              "RelativeDocumentMoniker": "3.2\\NameC.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameC.txt",
+              "RelativeToolTip": "3.2\\NameC.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:35:19.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NameD.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameD.txt",
+              "RelativeDocumentMoniker": "3.2\\NameD.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\3.2\\NameD.txt",
+              "RelativeToolTip": "3.2\\NameD.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T12:35:28.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "F2.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F2.txt",
+              "RelativeDocumentMoniker": "13.2\\F2.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F2.txt",
+              "RelativeToolTip": "13.2\\F2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T16:38:28.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "F1.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F1.txt",
+              "RelativeDocumentMoniker": "13.2\\F1.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\13.2\\F1.txt",
+              "RelativeToolTip": "13.2\\F1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T16:38:31.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "fileB.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\fileB.txt",
+              "RelativeDocumentMoniker": "OAIP19\\fileB.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\OAIP19\\fileB.txt",
+              "RelativeToolTip": "OAIP19\\fileB.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-12T16:37:54.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\Source.cpp",
+              "RelativeDocumentMoniker": "1.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\Source.cpp",
+              "RelativeToolTip": "1.1\\Source.cpp",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAEQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-11T20:49:26.591Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "fC.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fC.txt",
+              "RelativeDocumentMoniker": "1.1\\fC.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fC.txt",
+              "RelativeToolTip": "1.1\\fC.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T20:46:52.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "fB.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fB.txt",
+              "RelativeDocumentMoniker": "1.1\\fB.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fB.txt",
+              "RelativeToolTip": "1.1\\fB.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T20:46:39.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "fA.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fA.txt",
+              "RelativeDocumentMoniker": "1.1\\fA.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\1.1\\fA.txt",
+              "RelativeToolTip": "1.1\\fA.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T20:46:24.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "F2.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F2.txt",
+              "RelativeDocumentMoniker": "15.2\\F2.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F2.txt",
+              "RelativeToolTip": "15.2\\F2.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T20:17:41.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "F1.txt",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F1.txt",
+              "RelativeDocumentMoniker": "15.2\\F1.txt",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\OAIP19\\15.2\\F1.txt",
+              "RelativeToolTip": "15.2\\F1.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-12-11T20:17:28.871Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

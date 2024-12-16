@@ -1,0 +1,39 @@
+﻿Сборка начата 12.12.2024 19:33:55.
+Уровень детализации журнала: Normal.     1>Проект "C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\OAIP18.2.vcxproj" в узле 2 (целевые объекты Build).
+     1>D:\visual studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OAIP18.2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+         Структурированный вывод включен. Форматирование диагностики компилятора будет отражать иерархию ошибок. Подробнее см. https://aka.ms/cpp/structured-output.
+     1>InitializeBuildStatus:
+         Создание "x64\Debug\13.tlog\unsuccessfulbuild", так как было задано "AlwaysCreate".
+         Обращение к "x64\Debug\13.tlog\unsuccessfulbuild".
+       ClCompile:
+         D:\visual studio\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt Source.cpp
+         Source.cpp
+     1>C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\Source.cpp(12,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+             C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\Source.cpp(12,14):
+             контекст создания экземпляра шаблона (сначала самый старый)
+                 C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\Source.cpp(43,74):
+                 выполняется компиляция ссылки на экземпляр шаблон функции "int sumBelowMainDiagonal<>(const std::vector<std::vector<int,std::allocator<int>>,std::allocator<std::vector<int,std::allocator<int>>>> &)"
+         
+       Link:
+         D:\visual studio\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\ugl18\source\repos\OAIP18.2\x64\Debug\13.exe" /INCREMENTAL /ILK:"x64\Debug\13.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\ugl18\source\repos\OAIP18.2\x64\Debug\13.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\ugl18\source\repos\OAIP18.2\x64\Debug\13.lib" /MACHINE:X64 x64\Debug\Source.obj
+         OAIP18.2.vcxproj -> C:\Users\ugl18\source\repos\OAIP18.2\x64\Debug\13.exe
+       FinalizeBuildStatus:
+         Файл "x64\Debug\13.tlog\unsuccessfulbuild" удаляется.
+         Обращение к "x64\Debug\13.tlog\13.lastbuildstate".
+     1>Сборка проекта "C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\OAIP18.2.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+       "C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\OAIP18.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект PrepareForBuild) -> 
+         D:\visual studio\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (OAIP18.2.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+
+
+       "C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\OAIP18.2.vcxproj" (целевой объект Build ) (1) ->
+       (Целевой объект ClCompile) -> 
+         C:\Users\ugl18\source\repos\OAIP18.2\OAIP18.2\Source.cpp(12,14): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+
+    Предупреждений: 2
+    Ошибок: 0
+
+Прошло времени 00:00:01.05

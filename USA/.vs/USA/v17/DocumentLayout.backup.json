@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\USA\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8FB5F952-6F57-4AB7-BB63-279CE99F533B}|USA\\USA.vcxproj|C:\\Users\\ugl18\\source\\repos\\USA\\USA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8FB5F952-6F57-4AB7-BB63-279CE99F533B}|USA\\USA.vcxproj|solutionrelative:USA\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EC7DB80-D05D-40F4-B713-ABF2E53D59B5}|pole\\pole.vcxproj|C:\\Users\\ugl18\\source\\repos\\USA\\pole\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9EC7DB80-D05D-40F4-B713-ABF2E53D59B5}|pole\\pole.vcxproj|solutionrelative:pole\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\USA\\pole\\Source.cpp",
+              "RelativeDocumentMoniker": "pole\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\USA\\pole\\Source.cpp",
+              "RelativeToolTip": "pole\\Source.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACoAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-24T18:51:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\USA\\USA\\Source.cpp",
+              "RelativeDocumentMoniker": "USA\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\USA\\USA\\Source.cpp",
+              "RelativeToolTip": "USA\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-23T21:02:24.463Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

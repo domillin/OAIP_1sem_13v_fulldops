@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ugl18\\source\\repos\\LABA11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB4F4777-F0E6-453F-85E6-0A48FADFD905}|13.2\\13.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{BB4F4777-F0E6-453F-85E6-0A48FADFD905}|13.2\\13.2.vcxproj|solutionrelative:13.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F9C59D2-1140-438C-B310-5A6DD8D627B9}|Project1\\Project1.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{4F9C59D2-1140-438C-B310-5A6DD8D627B9}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65F865A8-47E5-442A-8AFB-0C5C26126B30}|LABA11\\LABA11.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\LABA11\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65F865A8-47E5-442A-8AFB-0C5C26126B30}|LABA11\\LABA11.vcxproj|solutionrelative:LABA11\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09667F56-F663-4BDA-AAED-3696C392E904}|3.2\\3.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{09667F56-F663-4BDA-AAED-3696C392E904}|3.2\\3.2.vcxproj|solutionrelative:3.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9761BF01-716F-4294-9272-FE6935275ABC}|3.1\\3.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{9761BF01-716F-4294-9272-FE6935275ABC}|3.1\\3.1.vcxproj|solutionrelative:3.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7E5E957-EF9C-41BE-BD52-A27E45F56B57}|1.2\\1.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\1.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{B7E5E957-EF9C-41BE-BD52-A27E45F56B57}|1.2\\1.2.vcxproj|solutionrelative:1.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5CF6941-DDF9-4336-A2C7-77304C486ACA}|1.1\\1.1.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E5CF6941-DDF9-4336-A2C7-77304C486ACA}|1.1\\1.1.vcxproj|solutionrelative:1.1\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D6AA0F5F-AD94-4AB8-95F0-82800B400DE6}|15.2\\15.2.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\15.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D6AA0F5F-AD94-4AB8-95F0-82800B400DE6}|15.2\\15.2.vcxproj|solutionrelative:15.2\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B948D0F-E75E-4446-B0C4-D1C273F2E323}|15\\15.vcxproj|C:\\Users\\ugl18\\source\\repos\\LABA11\\15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{7B948D0F-E75E-4446-B0C4-D1C273F2E323}|15\\15.vcxproj|solutionrelative:15\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\Project1\\Source.cpp",
+              "RelativeDocumentMoniker": "Project1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\Project1\\Source.cpp",
+              "RelativeToolTip": "Project1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-28T10:23:22.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\3.2\\Source.cpp",
+              "RelativeDocumentMoniker": "3.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\3.2\\Source.cpp",
+              "RelativeToolTip": "3.2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T11:24:20.993Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\3.1\\Source.cpp",
+              "RelativeDocumentMoniker": "3.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\3.1\\Source.cpp",
+              "RelativeToolTip": "3.1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-07T11:10:10.599Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\1.2\\Source.cpp",
+              "RelativeDocumentMoniker": "1.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\1.2\\Source.cpp",
+              "RelativeToolTip": "1.2\\Source.cpp",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAADcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T21:01:48.483Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\1.1\\Source.cpp",
+              "RelativeDocumentMoniker": "1.1\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\1.1\\Source.cpp",
+              "RelativeToolTip": "1.1\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAIwBEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:50:01.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\15.2\\Source.cpp",
+              "RelativeDocumentMoniker": "15.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\15.2\\Source.cpp",
+              "RelativeToolTip": "15.2\\Source.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:33:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\15\\Source.cpp",
+              "RelativeDocumentMoniker": "15\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\15\\Source.cpp",
+              "RelativeToolTip": "15\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-06T20:22:10.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\13.2\\Source.cpp",
+              "RelativeDocumentMoniker": "13.2\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\13.2\\Source.cpp",
+              "RelativeToolTip": "13.2\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T18:18:43.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "C:\\Users\\ugl18\\source\\repos\\LABA11\\LABA11\\Source.cpp",
+              "RelativeDocumentMoniker": "LABA11\\Source.cpp",
+              "ToolTip": "C:\\Users\\ugl18\\source\\repos\\LABA11\\LABA11\\Source.cpp",
+              "RelativeToolTip": "LABA11\\Source.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-11-05T18:00:20.024Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
